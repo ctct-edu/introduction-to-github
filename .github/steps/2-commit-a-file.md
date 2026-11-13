@@ -13,4 +13,9 @@
 Welcome to my GitHub profile!
 ```
 
+### 画面での確認
+
+- **Code** のファイル一覧の上にある **Add file** メニューを使います。編集画面の上部の **Name your file…** に `PROFILE.md`、中央の編集欄に例文を入力します。
+- **Commit changes…** は編集画面の右上です。確認画面で `my-first-branch` に直接コミットすることを確認します。
+
 [原文](https://github.com/skills/introduction-to-github/blob/main/.github/steps/2-commit-a-file.md)
